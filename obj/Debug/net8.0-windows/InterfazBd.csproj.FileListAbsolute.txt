@@ -1,0 +1,14 @@
+D:\Universidad\Base de datos\InterfazBd\bin\Debug\net8.0-windows\InterfazBd.exe
+D:\Universidad\Base de datos\InterfazBd\bin\Debug\net8.0-windows\InterfazBd.deps.json
+D:\Universidad\Base de datos\InterfazBd\bin\Debug\net8.0-windows\InterfazBd.runtimeconfig.json
+D:\Universidad\Base de datos\InterfazBd\bin\Debug\net8.0-windows\InterfazBd.dll
+D:\Universidad\Base de datos\InterfazBd\bin\Debug\net8.0-windows\InterfazBd.pdb
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.AssemblyInfoInputs.cache
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.AssemblyInfo.cs
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.csproj.CoreCompileInputs.cache
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.dll
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\refint\InterfazBd.dll
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.pdb
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.genruntimeconfig.cache
+D:\Universidad\Base de datos\InterfazBd\obj\Debug\net8.0-windows\ref\InterfazBd.dll
