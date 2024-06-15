@@ -28,17 +28,28 @@ partial class Form1
     /// </summary>
     private void InitializeComponent()
     {
+        MainPanel = new Panel();
         SuspendLayout();
+        // 
+        // MainPanel
+        // 
+        MainPanel.Location = new Point(0, 2);
+        MainPanel.Name = "MainPanel";
+        MainPanel.Size = new Size(1064, 699);
+        MainPanel.TabIndex = 0;
         // 
         // Form1
         // 
         AutoScaleDimensions = new SizeF(8F, 20F);
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(1065, 700);
+        Controls.Add(MainPanel);
         Name = "Form1";
         Text = "Form1";
         ResumeLayout(false);
     }
 
     #endregion
+
+    private Panel MainPanel;
 }

@@ -77,3 +77,4 @@ D:\Universidad\Base de datos\interfaz\InterfazBd\obj\Debug\net8.0-windows\refint
 D:\Universidad\Base de datos\interfaz\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.pdb
 D:\Universidad\Base de datos\interfaz\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.genruntimeconfig.cache
 D:\Universidad\Base de datos\interfaz\InterfazBd\obj\Debug\net8.0-windows\ref\InterfazBd.dll
+D:\Universidad\Base de datos\interfaz\InterfazBd\obj\Debug\net8.0-windows\InterfazBd.Paneles.Login.resources
